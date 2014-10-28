@@ -55,7 +55,7 @@ body{background:none !important;}
 
 	.page-header{display:none;}
 	.b-content__new{margin: 0;font-size: 16px;}
-	.b-b-conten__what-is-arround img{margin:0}
+	.b-b-conten__what-is-arround img{margin:0;}
 
     .content{margin:20px;}
 
@@ -67,5 +67,10 @@ body{background:none !important;}
 
 /*/ FOOTER */
 
-.b-color-blue{color:#026a91 !important}
-.important{color:#ba2c2c !important}
+.b-color-blue{color:#026a91 !important;}
+.important{color:#ba2c2c !important;}
+.cal-na, .cal-na > div{background-color: #584D4D !important;}
+.cal-av, .cal-av > div{background-color: #0594CE !important;}
+.field-type-availability-calendar-booking-formlet .form-submit{position: relative; display: none;}
+
+.cal-history{width: 25px;height: 25px;display: inline-block;}
